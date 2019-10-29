@@ -2,23 +2,23 @@ Raspi based data-logger   //not finished
 ref:
 
 Final product
-Hardware
+Hardware       
 ![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/%E5%9B%BE%E7%89%872.jpg)
-Software
+Software       
 ![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/UI.png)
 Hardware schematic:
-Power:
+Power:      
 ![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/power.png)
 
-Front end:
+Front end:    
 ![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/Frontend.png)
 
-Software:
-The software I'm using is:
-Smbus2:
-https://pypi.org/project/smbus2/
-The function I'm using is :i2c_rdwr
-I'm using this function is The ADC I'm using generate 2byte data. so the date go this way 
+Software:     
+The software I'm using is:     
+Smbus2:     
+https://pypi.org/project/smbus2/    
+The function I'm using is :i2c_rdwr     
+I'm using this function is The ADC I'm using generate 2byte data. so the date go this way      
 ![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/%E5%9B%BE%E7%89%871.png)
 So  i2c_rdwr can get data from ADC and storage it in Raspi. And it is ready to be used for Qt and Matplot
 
