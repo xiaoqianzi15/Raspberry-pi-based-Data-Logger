@@ -4,8 +4,10 @@ Final product
 
 Hardware schematic:
 Power:
+![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/power.png)
 
 Front end:
+![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/Frontend.png)
 
 Software:
 The software I'm using is:
