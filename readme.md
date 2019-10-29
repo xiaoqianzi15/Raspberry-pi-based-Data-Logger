@@ -11,7 +11,7 @@ Smbus2:
 https://pypi.org/project/smbus2/
 The function I'm using is :i2c_rdwr
 I'm using this function is The ADC I'm using generate 2byte data. so the date go this way 
-![image].(https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/%E5%9B%BE%E7%89%871.png)
+![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/%E5%9B%BE%E7%89%871.png)
 So  i2c_rdwr can get data from ADC and storage it in Raspi. And it is ready to be used for Qt and Matplot
 
 Pyside2:
