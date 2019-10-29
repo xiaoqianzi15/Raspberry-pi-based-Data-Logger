@@ -2,8 +2,10 @@ Raspi based data-logger   //not finished
 ref:
 
 Final product
+Hardware
 ![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/%E5%9B%BE%E7%89%872.jpg)
-
+Software
+![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/UI.png)
 Hardware schematic:
 Power:
 ![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/power.png)
