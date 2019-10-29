@@ -1,5 +1,6 @@
 Raspi based data-logger   //not finished
-ref:
+ref:    
+place to find the definition of Pin at Raspi     https://pinout.xyz/
 
 Final product
 Hardware       
