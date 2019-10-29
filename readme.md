@@ -1,4 +1,6 @@
 Raspi based data-logger   //not finished
+Final product
+![image](https://github.com/xiaoqianzi15/Raspberry-pi-based-Data-Logger/blob/master/picture/%E5%9B%BE%E7%89%872.jpg)
 
 Hardware schematic:
 Power:
